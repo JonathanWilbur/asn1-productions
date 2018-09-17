@@ -88,6 +88,7 @@ Though said specification says that these productions are in Backus-Naur Form
 - [ ] Add regular expressions to comments of `lexical-items` files
 - [ ] Quote all caps keywords in productions
 - [x] Trim trailing whitespace
+- [ ] Use consistent indentation (tabs or spaces) between files
 
 ## See Also
 
